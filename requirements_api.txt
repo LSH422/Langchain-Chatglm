@@ -50,3 +50,5 @@ qianfan
 # pymilvus==2.1.3 # requires milvus==2.1.3
 # psycopg2
 # pgvector
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
