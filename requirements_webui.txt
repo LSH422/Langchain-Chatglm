@@ -7,3 +7,4 @@ streamlit-chatbox>=1.1.11
 streamlit-aggrid>=0.3.4.post3
 httpx[brotli,http2,socks]>=0.25.0
 watchdog
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
