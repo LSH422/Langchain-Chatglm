@@ -11,7 +11,7 @@ torch>=2.0.1 # 推荐2.1
 torchvision
 torchaudio
 fastapi>=0.104
-nltk>=3.8.1
+nltk>=3.8.2
 uvicorn~=0.23.1
 starlette~=0.27.0
 pydantic~=1.10.11
